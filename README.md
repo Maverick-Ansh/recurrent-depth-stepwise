@@ -1,5 +1,7 @@
 # Recurrent Depth, built step by step
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maverick-Ansh/recurrent-depth-stepwise/blob/main/recurrent_depth_stepwise.ipynb)
+
 A from-scratch PyTorch build of **"Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach"** (Geiping et al., arXiv 2502.05171), done one checkpoint at a time in a live Colab/Kaggle notebook on 2x Tesla T4.
 
 Only the paper was used as the source. The single external artifact is the paper's tokenizer (`tokenizer.json` of `tomg-group-umd/huginn-0125`). No model code or weights were taken from anywhere.
