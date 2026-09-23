@@ -1,0 +1,290 @@
+{
+ "README.md": [
+  7012,
+  "6829130f32c3e85128829c9a1f10e219"
+ ],
+ "figures/ckpt1_latent.png": [
+  104909,
+  "0b7bc871165ae172e31a0a4016ca7af1"
+ ],
+ "figures/ckpt2_recurrence.png": [
+  229068,
+  "a81e558af28fca014715a97d94fe0572"
+ ],
+ "figures/ckpt5_scaling.png": [
+  267968,
+  "a30c4e7ed1676231dff6af56f59abf84"
+ ],
+ "figures/ckpt7_latent.png": [
+  138025,
+  "c53d4e675298a1d8be0d24fd70e4fcd9"
+ ],
+ "rd.py": [
+  22600,
+  "00f540899b78b9f1640b8544909caabf"
+ ],
+ "recurrent_depth_stepwise.ipynb": [
+  430542,
+  "ec85e4feefd92ea875874e01a31c504e"
+ ],
+ "runs/_invalid_autocast_bug_recurrent/config.json": [
+  287,
+  "1cd2e6f5cd7b18110b9f2e60ce0db11d"
+ ],
+ "runs/_invalid_autocast_bug_recurrent/log.jsonl": [
+  1229,
+  "73ac050b39247e5a32336cb312b5c29b"
+ ],
+ "runs/_invalid_autocast_bug_recurrent/stdout.txt": [
+  779,
+  "471ea0106a5fe930addf69c3c1783687"
+ ],
+ "runs/_v1_recurrent/config.json": [
+  287,
+  "1cd2e6f5cd7b18110b9f2e60ce0db11d"
+ ],
+ "runs/_v1_recurrent/log.jsonl": [
+  1825,
+  "0e64e12e25421d662f4ab1ec7caac9bb"
+ ],
+ "runs/_v1_recurrent/stdout.txt": [
+  1177,
+  "b005ec5fb802966e8002f53368369fb9"
+ ],
+ "runs/_v1_twin_r1/DONE": [
+  2,
+  "444bcb3a3fcf8389296c49467f27e1d6"
+ ],
+ "runs/_v1_twin_r1/config.json": [
+  284,
+  "cca2f30e3a1074964f20dc72662b6f15"
+ ],
+ "runs/_v1_twin_r1/log.jsonl": [
+  4108,
+  "e5527bebce6a57c1c8b5dce25ecaad28"
+ ],
+ "runs/_v1_twin_r1/stdout.txt": [
+  2748,
+  "7864c53cce2a11fda96930c84dd477ef"
+ ],
+ "runs/_v2_recurrent/config.json": [
+  303,
+  "75e9ebb9e9f073518cd3aab86fc94d50"
+ ],
+ "runs/_v2_recurrent/log.jsonl": [
+  3711,
+  "d65c1dabeffcb641f7dd0c376c256090"
+ ],
+ "runs/_v2_recurrent/stdout.txt": [
+  2355,
+  "3a7f3192725c7d83fb7e1ddb2bd3f2c0"
+ ],
+ "runs/_v2_twin_r1/DONE": [
+  2,
+  "444bcb3a3fcf8389296c49467f27e1d6"
+ ],
+ "runs/_v2_twin_r1/config.json": [
+  300,
+  "b6c75dcae08e46a12037350d2fd7b26c"
+ ],
+ "runs/_v2_twin_r1/log.jsonl": [
+  4152,
+  "4a8962f67a7c52135087b57767dab3c0"
+ ],
+ "runs/_v2_twin_r1/stdout.txt": [
+  2744,
+  "0dc71a0b168469bf51f527213a131bd7"
+ ],
+ "runs/_v3_recurrent/config.json": [
+  303,
+  "75e9ebb9e9f073518cd3aab86fc94d50"
+ ],
+ "runs/_v3_recurrent/log.jsonl": [
+  4305,
+  "96d5d66caa80ab35cee2cb9bc939f4b9"
+ ],
+ "runs/_v3_recurrent/stdout.txt": [
+  2754,
+  "9f72287ebe11a74c67842506fde1e617"
+ ],
+ "runs/_v3_twin_r1/DONE": [
+  2,
+  "444bcb3a3fcf8389296c49467f27e1d6"
+ ],
+ "runs/_v3_twin_r1/config.json": [
+  300,
+  "b6c75dcae08e46a12037350d2fd7b26c"
+ ],
+ "runs/_v3_twin_r1/log.jsonl": [
+  4130,
+  "59ee8e9385df725e5a8fbc569cb082b8"
+ ],
+ "runs/_v3_twin_r1/stdout.txt": [
+  2751,
+  "a73aa828cfaafd880c44706a1ff79ded"
+ ],
+ "runs/_v4_recurrent/config.json": [
+  303,
+  "75e9ebb9e9f073518cd3aab86fc94d50"
+ ],
+ "runs/_v4_recurrent/log.jsonl": [
+  3718,
+  "a25fa099209b34d06e5ed7b14eba409e"
+ ],
+ "runs/_v4_recurrent/stdout.txt": [
+  2359,
+  "25a590f7ed7f3434a9b4853ce75ab47c"
+ ],
+ "runs/_v4_recurrent_s1/config.json": [
+  303,
+  "6367a02fd9808f97ec5cdb2654febbf8"
+ ],
+ "runs/_v4_recurrent_s1/log.jsonl": [
+  616,
+  "f3903c75c0d8c95716ff839c56460b32"
+ ],
+ "runs/_v4_recurrent_s1/stdout.txt": [
+  388,
+  "fc0ef70e30999d03398ea8991bf4432c"
+ ],
+ "runs/_v4_twin_r1/DONE": [
+  2,
+  "444bcb3a3fcf8389296c49467f27e1d6"
+ ],
+ "runs/_v4_twin_r1/config.json": [
+  300,
+  "b6c75dcae08e46a12037350d2fd7b26c"
+ ],
+ "runs/_v4_twin_r1/log.jsonl": [
+  4128,
+  "8b2cdcb6a0a6b2f1be53b01653532237"
+ ],
+ "runs/_v4_twin_r1/stdout.txt": [
+  2743,
+  "e0021fcb4ec39b69268a6c2e6c98b605"
+ ],
+ "runs/recurrent/DONE": [
+  2,
+  "444bcb3a3fcf8389296c49467f27e1d6"
+ ],
+ "runs/recurrent/ckpt.pt": [
+  15427841,
+  "13bfb0e9d5ca1836830302fa27e83b2a"
+ ],
+ "runs/recurrent/config.json": [
+  303,
+  "75e9ebb9e9f073518cd3aab86fc94d50"
+ ],
+ "runs/recurrent/log.jsonl": [
+  15509,
+  "d56d025036cf11b8d27b961045d64b01"
+ ],
+ "runs/recurrent/stdout.txt": [
+  9861,
+  "0dc00c4d2f4cd6eee5fd39103077688a"
+ ],
+ "runs/recurrent_c/DONE": [
+  2,
+  "444bcb3a3fcf8389296c49467f27e1d6"
+ ],
+ "runs/recurrent_c/ckpt.pt": [
+  15427841,
+  "415c3643df4afaaaf0bc8dffb6955138"
+ ],
+ "runs/recurrent_c/config.json": [
+  304,
+  "9d78fa62f8fada9aac58a5004c0514ec"
+ ],
+ "runs/recurrent_c/log.jsonl": [
+  15586,
+  "bf1410f07d77c493ecc78ca1cf3f98be"
+ ],
+ "runs/recurrent_c/stdout.txt": [
+  9875,
+  "52a2ccdb9e3543a3840932e7ea2465c7"
+ ],
+ "runs/recurrent_s1/DONE": [
+  2,
+  "444bcb3a3fcf8389296c49467f27e1d6"
+ ],
+ "runs/recurrent_s1/ckpt.pt": [
+  15427841,
+  "686987876b2780bb3c7b70103b32b808"
+ ],
+ "runs/recurrent_s1/config.json": [
+  303,
+  "6367a02fd9808f97ec5cdb2654febbf8"
+ ],
+ "runs/recurrent_s1/log.jsonl": [
+  15537,
+  "5e9d2dbfc0add0932b6cc13898e12a42"
+ ],
+ "runs/recurrent_s1/stdout.txt": [
+  9876,
+  "88df1a3744dc4732ae028e5ebaa157a8"
+ ],
+ "runs/recurrent_s1_c/DONE": [
+  2,
+  "444bcb3a3fcf8389296c49467f27e1d6"
+ ],
+ "runs/recurrent_s1_c/ckpt.pt": [
+  15427841,
+  "3007aecdc7d3c70786c611c43b52b430"
+ ],
+ "runs/recurrent_s1_c/config.json": [
+  304,
+  "26bd397ab23a307c4bd78a2c8a76f28d"
+ ],
+ "runs/recurrent_s1_c/log.jsonl": [
+  15606,
+  "d8a8224823c86c9dba82f42208337cfa"
+ ],
+ "runs/recurrent_s1_c/stdout.txt": [
+  9878,
+  "14259954ea5e784001f0ed50193860e6"
+ ],
+ "runs/twin_r1/DONE": [
+  2,
+  "444bcb3a3fcf8389296c49467f27e1d6"
+ ],
+ "runs/twin_r1/ckpt.pt": [
+  15427841,
+  "ab7935e20d0a6ae14bdb30ba67274d8f"
+ ],
+ "runs/twin_r1/config.json": [
+  300,
+  "b6c75dcae08e46a12037350d2fd7b26c"
+ ],
+ "runs/twin_r1/log.jsonl": [
+  4153,
+  "722108bffa8e6c6fffac1be4fba8653c"
+ ],
+ "runs/twin_r1/stdout.txt": [
+  2739,
+  "646656fb643ee5a307f59c2c8ada4d08"
+ ],
+ "runs/twin_r1_c/DONE": [
+  2,
+  "444bcb3a3fcf8389296c49467f27e1d6"
+ ],
+ "runs/twin_r1_c/ckpt.pt": [
+  15427841,
+  "17b5271cf7cfb361fa4b0f10247cc6a3"
+ ],
+ "runs/twin_r1_c/config.json": [
+  301,
+  "f76641e62e6c4189b609dd681a629075"
+ ],
+ "runs/twin_r1_c/log.jsonl": [
+  4137,
+  "bf7a849360586d51b2d5152e592f24c9"
+ ],
+ "runs/twin_r1_c/stdout.txt": [
+  2756,
+  "0fd8a6271a7d2f9c2314e8658fcd2988"
+ ],
+ "tests/test_rd.py": [
+  3904,
+  "1a999bc6bc6db6c055ef64467fa9ff9e"
+ ]
+}

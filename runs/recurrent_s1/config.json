@@ -1,0 +1,1 @@
+{"cfg": {"vocab": 48, "h": 256, "n_heads": 4, "mlp_inner": 864, "l_P": 1, "l_R": 2, "l_C": 1, "r_bar": 16, "rope_base": 50000.0, "norm_eps": 1e-06, "max_seq": 512}, "args": {"steps": 6000, "bs": 128, "lr": 0.001, "r_bar": 16, "k": 8, "fixed_r": null, "n_vars": 12, "n_q": 0, "seed": 1, "n_vars_min": 4}}
